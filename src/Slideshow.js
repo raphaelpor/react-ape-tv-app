@@ -63,14 +63,4 @@ function Slideshow() {
   );
 }
 
-/*
-  <View style={styles.slideshowDots}>
-    {slides.map((_, index) => (
-      <View 
-        style={index === idx ? styles.slideshowDotActive : styles.slideshowDot }
-      />
-    ))}
-  </View>
-*/
-
 export default Slideshow;

@@ -49,7 +49,6 @@ class Grid extends Component {
       <View style={styles.grid}>
         <Text style={styles.title}>Rio de Janeiro</Text>
         <View style={styles.list}>
-          {/* TODO: Develop relative render for Image */}
           {list.map((imageSrc, idx) => {
             const left = styles.image.width * idx + 400;
 
