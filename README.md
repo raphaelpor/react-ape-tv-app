@@ -1,11 +1,11 @@
-# React Ape Photo Gallery
+# React Ape TV App
 
-Check it out: https://raphamorim.io/react-ape-photo-gallery/
+A project built with https://github.com/raphamorim/react-ape.
 
 1. Clone the repository
 
 ```
-git clone https://github.com/raphamorim/react-ape-photo-gallery.git && cd react-ape-photo-gallery
+git clone https://github.com/raphaelpor/react-ape-tv-app.git && cd react-ape-tv-app
 ```
 
 2. Install the dependencies
