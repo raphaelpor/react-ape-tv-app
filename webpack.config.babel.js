@@ -7,7 +7,7 @@ const reactApePath = path.join(__dirname, '../react-ape');
 
 const config = {
   mode: 'development',
-  entry: [path.resolve(sourcePath, 'App.js')],
+  entry: [path.resolve(sourcePath, 'index.js')],
   output: {
     path: __dirname,
     filename: 'bundle.js',
